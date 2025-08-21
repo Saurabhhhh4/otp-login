@@ -1,1 +1,12 @@
 /node_modules
+/.env
+/otp-login-node
+/otp-login-node/.env
+/otp-login-node/utils
+/otp-login-node/models
+/otp-login-node/routes
+/otp-login-node/controllers
+/otp-login-node/middleware
+/otp-login-node/tests
+/otp-login-node/public
+/otp-login-node/views
